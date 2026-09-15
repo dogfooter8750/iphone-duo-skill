@@ -28,15 +28,15 @@ iOS 앱(SwiftUI·UIKit)을 **iPhone Duo**(애플 첫 폴더블, 2026-09-09 발�
 **Claude Code** (프로젝트 또는 전역):
 
 ```bash
-git clone https://github.com/KimYoungHwan8750/iphone-duo-skill .claude/skills/iphone-duo
+git clone https://github.com/dogfooter8750/iphone-duo-skill .claude/skills/iphone-duo
 # 또는
-git clone https://github.com/KimYoungHwan8750/iphone-duo-skill ~/.claude/skills/iphone-duo
+git clone https://github.com/dogfooter8750/iphone-duo-skill ~/.claude/skills/iphone-duo
 ```
 
 **Codex CLI**:
 
 ```bash
-git clone https://github.com/KimYoungHwan8750/iphone-duo-skill ~/.codex/skills/iphone-duo
+git clone https://github.com/dogfooter8750/iphone-duo-skill ~/.codex/skills/iphone-duo
 ```
 
 `SKILL.md` 프런트매터(name + description)를 읽는 다른 에이전트도 같은 방식으로 씁니다.

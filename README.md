@@ -28,15 +28,15 @@ The skill is a folder with `SKILL.md` at its root, so cloning into a skills dire
 **Claude Code** (project-local or global):
 
 ```bash
-git clone https://github.com/KimYoungHwan8750/iphone-duo-skill .claude/skills/iphone-duo
+git clone https://github.com/dogfooter8750/iphone-duo-skill .claude/skills/iphone-duo
 # or
-git clone https://github.com/KimYoungHwan8750/iphone-duo-skill ~/.claude/skills/iphone-duo
+git clone https://github.com/dogfooter8750/iphone-duo-skill ~/.claude/skills/iphone-duo
 ```
 
 **Codex CLI**:
 
 ```bash
-git clone https://github.com/KimYoungHwan8750/iphone-duo-skill ~/.codex/skills/iphone-duo
+git clone https://github.com/dogfooter8750/iphone-duo-skill ~/.codex/skills/iphone-duo
 ```
 
 Any other agent that reads `SKILL.md` front matter (name + description) can load it the same way.
